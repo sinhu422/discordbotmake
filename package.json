@@ -1,0 +1,7 @@
+{
+  "description": "",
+  "dependencies": {
+    "discord.js": "^13.17.1",
+    "ytdl-core": "^4.11.5"
+  }
+}
