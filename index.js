@@ -8,7 +8,7 @@ const client = new Client({
     ] 
 });
 
-const token = 'MTIyODcyNDIxNDIwMzE1NDQ4Mg.GVaDzY.ZRgEPaKr9OO6_au1r8l22eD0IZ5QE7GG8JsGA4';
+const token = 'MTIyODcyNDIxNDIwMzE1NDQ4Mg.GuyARi.FQYiYRSFQRmVLv5vBjDpvXCWDKJSXrGjOa53dQ';
 const prefix = '!';
 
 const queue = new Map();
